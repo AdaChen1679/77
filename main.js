@@ -1,0 +1,12 @@
+var first = "Ranbir";
+console.log(first);
+var last = "Kapoor";
+console.log(last);
+var full = first.concat(last);
+console.log(full);
+var a = 10;
+console.log(a);
+var b = 5;
+console.log(b);
+var add = a + b;
+console.log(add);
